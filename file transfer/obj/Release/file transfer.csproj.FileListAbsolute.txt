@@ -1,0 +1,24 @@
+C:\Users\Waldes\Desktop\file transfer\file transfer\bin\Release\file transfer.exe
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Release\file_transfer.Catalog.resources
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Release\Main.resources
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Release\file_transfer.Properties.Resources.resources
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Release\file transfer.csproj.GenerateResource.Cache
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Release\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\Waldes\Desktop\file transfer\file transfer\bin\Release\file transfer.pdb
+C:\Users\Waldes\Desktop\file transfer\file transfer\bin\Release\MetroFramework.Design.dll
+C:\Users\Waldes\Desktop\file transfer\file transfer\bin\Release\MetroFramework.dll
+C:\Users\Waldes\Desktop\file transfer\file transfer\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Release\file transfer.exe
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Release\file transfer.pdb
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\bin\Release\file transfer.exe
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\bin\Release\file transfer.pdb
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\bin\Release\MetroFramework.Design.dll
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\bin\Release\MetroFramework.dll
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Release\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Release\file_transfer.Catalog.resources
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Release\Main.resources
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Release\file_transfer.Properties.Resources.resources
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Release\file transfer.csproj.GenerateResource.Cache
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Release\file transfer.exe
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Release\file transfer.pdb

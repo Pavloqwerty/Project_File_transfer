@@ -1,0 +1,64 @@
+C:\Users\Nathan\Documents\Visual Studio\Tutorial Projects\file transfer(edited 2)\file transfer\bin\Debug\file transfer.exe
+C:\Users\Nathan\Documents\Visual Studio\Tutorial Projects\file transfer(edited 2)\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Nathan\Documents\Visual Studio\Tutorial Projects\file transfer(edited 2)\file transfer\obj\Debug\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Visual Studio\Tutorial Projects\file transfer(edited 2)\file transfer\obj\Debug\Main.resources
+C:\Users\Nathan\Documents\Visual Studio\Tutorial Projects\file transfer(edited 2)\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Nathan\Documents\Visual Studio\Tutorial Projects\file transfer(edited 2)\file transfer\obj\Debug\file transfer.csproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Visual Studio\Tutorial Projects\file transfer(edited 2)\file transfer\obj\Debug\file transfer.exe
+C:\Users\Nathan\Documents\Visual Studio\Tutorial Projects\file transfer(edited 2)\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Pasha\Desktop\file transfer\file transfer\bin\Debug\file transfer.exe
+C:\Users\Pasha\Desktop\file transfer\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Pasha\Desktop\file transfer\file transfer\obj\Debug\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\Pasha\Desktop\file transfer\file transfer\obj\Debug\Main.resources
+C:\Users\Pasha\Desktop\file transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Pasha\Desktop\file transfer\file transfer\obj\Debug\file transfer.csproj.GenerateResource.Cache
+C:\Users\Pasha\Desktop\file transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\Pasha\Desktop\file transfer\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Waldes\Desktop\file transfer\file transfer\bin\Debug\file transfer.exe
+C:\Users\Waldes\Desktop\file transfer\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Debug\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Debug\Main.resources
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Debug\file transfer.csproj.GenerateResource.Cache
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Waldes\Desktop\file transfer\file transfer\bin\Debug\MetroFramework.Design.dll
+C:\Users\Waldes\Desktop\file transfer\file transfer\bin\Debug\MetroFramework.dll
+C:\Users\Waldes\Desktop\file transfer\file transfer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Waldes\Desktop\file transfer\file transfer\obj\Debug\file_transfer.Catalog.resources
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\bin\Debug\file transfer.exe
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\bin\Debug\MetroFramework.dll
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Debug\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Debug\file_transfer.Catalog.resources
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Debug\Main.resources
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Debug\file transfer.csproj.GenerateResource.Cache
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\Pasha\Desktop\Project ready\File transfer\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\bin\Debug\file transfer.exe
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\bin\Debug\MetroFramework.dll
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\obj\Debug\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\obj\Debug\file_transfer.Catalog.resources
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\obj\Debug\Main.resources
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\obj\Debug\file transfer.csproj.GenerateResource.Cache
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\Pasha\Desktop\project\File transfer\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\bin\Debug\file transfer.exe
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\bin\Debug\MetroFramework.dll
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\obj\Debug\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\obj\Debug\file_transfer.Catalog.resources
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\obj\Debug\Main.resources
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\obj\Debug\file transfer.csproj.GenerateResource.Cache
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\Pasha\Desktop\Project\Project File_transfer\File transfer\file transfer\obj\Debug\file transfer.pdb
