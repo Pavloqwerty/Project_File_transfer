@@ -27,7 +27,9 @@ namespace file_transfer
 
         //аll trаnsfеrs 
         public Dictionary<int, Queing> _newlocate = new Dictionary<int, Queing>();
-
+        /// <summary>
+        /// New dictionary locate
+        /// </summary>
         public Dictionary<int, Queing> Transff
         {
             get { return _newlocate; }
