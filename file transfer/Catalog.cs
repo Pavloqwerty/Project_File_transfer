@@ -43,6 +43,12 @@ namespace file_transfer
             }
             return Tuple.Create(diskButton1.Text, diskButton2.Text, diskButton3.Text);
         }
+
+        /// <summary>
+        /// Load Catalog
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Catalog_Load(object sender, EventArgs e)
         {
             textBox.Text = "C:\\";
