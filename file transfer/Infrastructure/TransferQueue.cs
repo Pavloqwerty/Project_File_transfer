@@ -4,6 +4,7 @@ using System.Threading;
 
 namespace file_transfer
 {
+
     public enum TypeofQueue : byte
     {
         Download,
