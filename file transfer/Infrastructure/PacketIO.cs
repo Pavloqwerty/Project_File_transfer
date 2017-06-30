@@ -11,7 +11,9 @@ public class PacketEditor : BinaryWriter
 {
     public MemoryStream _rm;
     public BinaryFormatter _rr;
-
+    /// <summary>
+    /// Create constructor 
+    /// </summary>
     public PacketEditor()
         : base()
     {
