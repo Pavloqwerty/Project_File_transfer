@@ -17,12 +17,18 @@ namespace file_transfer
     /// </summary>
     public partial class Catalog : MetroFramework.Forms.MetroForm
     {
+        /// <summary>
+        /// Initialize Components
+        /// </summary>
         public Catalog()
         {
             InitializeComponent();
         }
 
-
+        /// <summary>
+        /// Checked driver info
+        /// </summary>
+        /// <returns></returns>
         public Tuple<string, string, string> GetDirectory()
         {
             DriveInfo[] drives = DriveInfo.GetDrives();
