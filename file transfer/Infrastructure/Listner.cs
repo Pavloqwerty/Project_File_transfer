@@ -17,7 +17,7 @@ internal class SocketConfirm : FactArgs
         get;
         private set;
     }
-
+  
     public IPAddress Locate
     {
         get;
@@ -30,6 +30,10 @@ internal class SocketConfirm : FactArgs
         private set;
     }
 
+    /// <summary>
+    /// Socket Confirm End Point
+    /// </summary>
+    /// <param name="fb"></param>
     public SocketConfirm(Socket fb)
     {
         Confirm = fb;
@@ -84,7 +88,9 @@ internal class Listener
         _soket.Listen(100);
         _soket.BeginAccept(confirmCallback, null);
     }
-
+    /// <summary>
+    /// Stoping Socket
+    /// </summary>
     public void Stop()
     {
         if (!_run)

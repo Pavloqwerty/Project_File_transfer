@@ -54,6 +54,10 @@ public class PacketEditor : BinaryWriter
         _rr.Serialize(_rm, obiect);
     }
 
+    /// <summary>
+    /// Geting data
+    /// </summary>
+    /// <returns></returns>
     public byte[] ReceiveBites()
     {
         Close();
