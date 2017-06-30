@@ -207,6 +207,10 @@ namespace file_transfer
             Sending(pw.ReceiveBites());
         }
 
+        /// <summary>
+        /// Add checking progress
+        /// </summary>
+        /// <returns></returns>
         public int GetOverallProgress()
         {
             int over = 0;
